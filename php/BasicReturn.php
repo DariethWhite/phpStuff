@@ -1,5 +1,5 @@
 <?php
-/* Basic PHP request.  returns get requests.  Does not work woth post.
+/* Basic PHP request.  returns GET requests.  Does not work with POST.
 *  Currently untested
 */
 
